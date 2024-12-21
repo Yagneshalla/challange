@@ -1,0 +1,31 @@
+#numPhotos{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+  
+  #photoContainer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  img {
+    width: 250px;
+    margin: 10px;
+  }
+h1,h3{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ctnbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
